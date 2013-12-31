@@ -1,0 +1,12 @@
+[submodule "TEditor"]
+	path = TEditor
+	url = git@github.com:dolfly/TEditor.git
+[submodule "TrollEdit"]
+	path = TrollEdit
+	url = git@github.com:dolfly/TrollEdit.git
+[submodule "EpicEditor"]
+	path = EpicEditor
+	url = git@github.com:dolfly/EpicEditor.git
+[submodule "VimJs"]
+	path = VimJs
+	url = git@github.com:dolfly/VimJs.git
